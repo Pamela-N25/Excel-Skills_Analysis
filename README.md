@@ -1,6 +1,6 @@
 # Excel-Skills_Analysis
 
-![Excel Salary Dashboard Demo](assets/dashboard_demo.gif)
+![Excel Salary Dashboard Demo](images/Dashboard.gif)
 
 ## Introduction
 
